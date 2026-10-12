@@ -433,6 +433,15 @@ hr {
 	margin-right: .25em;
 }
 
+.rights a,
+.context-dark .rights a {
+	color: inherit;
+}
+
+.context-dark .rights a:hover {
+	color: #fff;
+}
+
 .page-foot-default .rights {
 	color: #fff;
 	font-weight: 300;
